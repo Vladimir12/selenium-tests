@@ -14,7 +14,7 @@ logEnabled: true
 takeScreenshots: true
 mockAds: false
 disableCommunityPageSalesPitchDialog: true
-useMITM: false
+useMITM: true
 useProxy: true
 useZapProxy: false
 
